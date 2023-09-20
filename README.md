@@ -10,18 +10,18 @@ Student Database Management System
   - Fee management
   - Time table allocation
   - User Management
-  -Attendance Management
-  -Gradebook Management
+  - Attendance Management
+  - Gradebook Management
   -Course Registration
   -Exam Scheduling and Management
   -Library Management
   -Fee Management
   -Timetable Management
-   - Event Management
+  - Event Management
   -Communication System
   -Resource Management
   -Transport Management
- - Health and Medical Records Management
+  -Health and Medical Records Management
   -Reporting and Analytics
 
 ## Prerequisites :
